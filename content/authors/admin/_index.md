@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-I am a senior computer science student at Georgia Tech. My research interests include information systems, ubiquitous computing, and privacy. I am most interested in understanding the potential and implications of ML techniques from a user standpoint. I am actively conducting HCI research at [GT SPUD (Security, Privacy, Usability and Design) Lab](https://gtspuds.com/) under the supervision of [Dr. Sauvik Das](https://sauvikdas.com/). I am also volunteering at [Berkeley SETI  Research Center](https://seti.berkeley.edu/listen/) building ML-based pipelines in astrophysics under the supervision of Dr. Andrew Siemon and [Dr. Steve Croft](https://astro.berkeley.edu/people/steve-croft/). 
+I am a senior computer science student at Georgia Tech. My research interests include information systems, ubiquitous computing, and privacy. I am most interested in understanding the potential and implications of ML techniques from a user standpoint. I am actively conducting HCI research at [GT SPUD (Security, Privacy, Usability and Design) Lab](https://gtspuds.com/) under the supervision of [Dr. Sauvik Das](https://sauvikdas.com/). I am also volunteering at [Berkeley SETI  Research Center](https://seti.berkeley.edu/listen/), building ML-based pipelines in astrophysics under the supervision of Dr. Andrew Siemon and [Dr. Steve Croft](https://astro.berkeley.edu/people/steve-croft/). 
 
-Other things about me: amateur piano player and singer, debate club consultant at my high school in China, learning to be a concept artist (work in progress).
+Miscellany: amateur piano player and singer, debate club consultant at my high school in China, learning to be a concept artist (work in progress).
