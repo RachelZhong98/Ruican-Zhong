@@ -17,6 +17,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Code
+  url: https://github.com/UCBerkeleySETI/BL-Reservoir
   
 url_code: ""
 url_pdf: ""
