@@ -5,7 +5,7 @@ authors:
 - admin
 - Stephanie Almeida
 - Sauvik Das
-date: August 2020
+date: "2020-08-02T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

@@ -7,14 +7,15 @@ superuser: true
 
 # Role/position
 role: Undergraduate Student and Researcher
-
+# role: 
 # Organizations/Affiliations
-organizations:
+organizations: 
 - name: Georgia Institute of Technology
   url: ""
+- name: "Email: rzhong34@gatech.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: 
 
 interests:
 - Human-Computer Interaction
@@ -32,13 +33,13 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  # link: '/#contact'  # For a direct email link, use "rzhong34@gatech.edu".
-  link: rzhong34@gatech.edu
-- icon: linkedin
-  icon_pack: fab
-  link: "www.linkedin.com/in/rachel-zhong-0412"
+# - icon: envelope
+#   icon_pack: fas
+#   # link: '/#contact'  # For a direct email link, use "rzhong34@gatech.edu".
+#   link: "rzhong34@gatech.edu"
+# - icon: linkedin
+#   icon_pack: fab
+#   link: www.linkedin.com/in/rachel-zhong-0412
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=S96pQXkAAAAJ&hl=en
@@ -52,10 +53,10 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "rzhong34@gatech.edu"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
