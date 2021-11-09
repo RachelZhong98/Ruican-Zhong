@@ -6,21 +6,23 @@ title: Ruican Zhong
 superuser: true
 
 # Role/position
-role: Undergraduate Student and Researcher
+role: HCDE PhD Student and Researcher
 # role: 
 # Organizations/Affiliations
 organizations: 
-- name: Georgia Institute of Technology
+- name: University of Washington, Seattle
   url: ""
-- name: "Email: rzhong34@gatech.edu"
+- name: "Email: rzhong98@uw.edu"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
 - Human-Computer Interaction
+- Behavior Change
+- Responsible AI
+- Recommendation Systems
 - Ubiquitous Computing
-- Information Science
 
 education:
   courses:
@@ -65,6 +67,9 @@ user_groups:
 - Visitors
 ---
 
-I am a senior computer science student at Georgia Tech. My research interests include information systems, ubiquitous computing, and privacy. I am most interested in understanding the potential and implications of ML techniques from a user standpoint. I am actively conducting HCI research at [GT SPUD (Security, Privacy, Usability and Design) Lab](https://gtspuds.com/) under the supervision of [Dr. Sauvik Das](https://sauvikdas.com/). I am also volunteering at [Berkeley SETI  Research Center](https://seti.berkeley.edu/listen/), building ML-based pipelines in astrophysics under the supervision of Dr. Andrew Siemon and [Dr. Steve Croft](https://astro.berkeley.edu/people/steve-croft/). 
+I am a 1st year HCDE (Human-Centered Design and Engineering) PhD student at the University of Washington. My current research interest is to understand and evaluate machine learning systems from a user perspective. I am especially excited about designing responsible AI-driven systems that can facilitate people's daily interactions and promote behavior change. I am currently rotating with Dr. David McDonald and Dr. Gary Hsieh.
+
+
+Previously, I have conducted HCI research at [GT SPUD (Security, Privacy, Usability and Design) Lab](https://gtspuds.com/) under the supervision of [Dr. Sauvik Das](https://sauvikdas.com/) during my undergrad. I am also volunteering at [Berkeley SETI  Research Center](https://seti.berkeley.edu/listen/), building ML-based pipelines in astrophysics under the supervision of Dr. Andrew Siemon and [Dr. Steve Croft](https://astro.berkeley.edu/people/steve-croft/). 
 
 Miscellany: amateur piano player and singer, debate club consultant at my high school in China, learning to be a concept artist (work in progress).
