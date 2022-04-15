@@ -1,5 +1,5 @@
 ---
-title: Ghost Trails
+title: Ghost Trails (Lead UX Researcher)
 summary: "React application hosting an online study: investigates the effectiveness of social cues on cybersecurity behavior"
 date: "2020-04-20T00:00:00Z"
 # Optional external URL for project (replaces project detail page).

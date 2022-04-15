@@ -1,5 +1,5 @@
 ---
-title: SAIA
+title: SAIA (Research Assistant)
 summary: "An interactive intelligent agent that improves the current binary authentication systems, handling security and privacy vulnerabilities of physical spaces."
 date: "2018-10-01T00:00:00Z"
 # Optional external URL for project (replaces project detail page).

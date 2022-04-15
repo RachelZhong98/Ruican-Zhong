@@ -1,5 +1,5 @@
 ---
-title: BL@Scale
+title: BL@Scale (Machine Learning Research Intern)
 summary: Scaling SETI (The Search for ExtraTerristrial Intelligence) to the Cloud
 date: "2020-08-14T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
