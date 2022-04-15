@@ -21,7 +21,7 @@ interests:
 - Human-Computer Interaction
 - Behavior Change
 - Responsible AI
-- Recommendation Systems
+- Information Systems
 - Ubiquitous Computing
 
 education:
@@ -71,5 +71,3 @@ I am a 1st year HCDE (Human-Centered Design and Engineering) PhD student at the 
 
 
 Previously, I have conducted HCI research at [GT SPUD (Security, Privacy, Usability and Design) Lab](https://gtspuds.com/) under the supervision of [Dr. Sauvik Das](https://sauvikdas.com/) during my undergrad. I am also volunteering at [Berkeley SETI  Research Center](https://seti.berkeley.edu/listen/), building ML-based pipelines in astrophysics under the supervision of Dr. Andrew Siemon and [Dr. Steve Croft](https://astro.berkeley.edu/people/steve-croft/). 
-<!-- 
-Miscellany: amateur piano player and singer, debate club consultant at my high school in China, learning to be a concept artist (work in progress). -->
