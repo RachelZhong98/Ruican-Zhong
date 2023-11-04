@@ -19,10 +19,8 @@ bio:
 
 interests:
 - Human-Computer Interaction
-- Behavior Change
-- Responsible AI
-- Information Systems
-- Ubiquitous Computing
+- Human-AI Interaction
+- Interactive Systems
 
 education:
   courses:
@@ -67,7 +65,8 @@ user_groups:
 - Visitors
 ---
 
-I am a 2nd year HCDE (Human-Centered Design and Engineering) PhD student at the University of Washington. My research interest is to understand and evaluate machine learning systems from a user perspective. I am especially excited about designing AI-driven systems that can facilitate people's collaborations in online communities, focusing on understanding the role that AI systems play in such interactions. I am currently working with [David McDonald](http://www.pensivepuffin.com/dwmcphd/index.html) and [Gary Hsieh](http://faculty.washington.edu/garyhs/). I am also collaborating with [Amy X. Zhang](https://homes.cs.washington.edu/~axz/) and [Franziska Roesner](https://www.franziroesner.com/) on the [ARTT](https://artt.cs.washington.edu/) project, designing technology that can help people respond to misinformation online.
+I am a 3rd year HCDE (Human-Centered Design and Engineering) PhD student at the University of Washington. My research interest is in designing and evaluating interactive machine learning systems from a user perspective. I am particularly excited about designing and implementing AI-driven systems that can facilitate online interaction and collaboration, focusing on understanding the role that AI systems play in such interactions. I am advised by [David McDonald](http://www.pensivepuffin.com/dwmcphd/index.html) and [Gary Hsieh](http://faculty.washington.edu/garyhs/). 
 
+Recently, I am working on understanding how to use LLMs to facilitate the design and implementation of interactive systems for UX designers.
 
 Previously, I have conducted HCI research at [GT SPUD (Security, Privacy, Usability and Design) Lab](https://gtspuds.com/) under the supervision of [Dr. Sauvik Das](https://sauvikdas.com/) during my undergrad. I have also interned at [Berkeley SETI  Research Center](https://seti.berkeley.edu/listen/), building ML-based pipelines in astrophysics under the supervision of Dr. Andrew Siemon and [Dr. Steve Croft](https://astro.berkeley.edu/people/steve-croft/). 
