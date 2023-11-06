@@ -48,9 +48,10 @@ social:
   link: https://github.com/RachelZhong98
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "rzhong98@uw.edu"
@@ -65,8 +66,8 @@ user_groups:
 - Visitors
 ---
 
-I am a 3rd year HCDE (Human-Centered Design and Engineering) PhD student at the University of Washington. My research interest is in designing and evaluating interactive machine learning systems from a user perspective. I am particularly excited about designing and implementing AI-driven systems that can facilitate online interaction and collaboration, focusing on understanding the role that AI systems play in such interactions. I am advised by [David McDonald](http://www.pensivepuffin.com/dwmcphd/index.html) and [Gary Hsieh](http://faculty.washington.edu/garyhs/). 
+I am a 3rd year HCDE (Human-Centered Design and Engineering) PhD student at the University of Washington, advised by [David McDonald](http://www.pensivepuffin.com/dwmcphd/index.html) and [Gary Hsieh](http://faculty.washington.edu/garyhs/). I have 4+ years of experience in mixed-method end-to-end HCI research and design. ([UX Research Portfolio](https://docs.google.com/presentation/d/1ue8k5tEiOC_V-JmBru1b7ewe8PqR-87UV6yXBMVwan0/edit?usp=sharing))
 
-Recently, I am working on understanding how to use LLMs to facilitate the design and implementation of interactive systems for UX designers.
+My research interest is in designing and evaluating *interactive machine learning systems* from a user perspective. I am particularly excited about **designing and implementing AI-driven systems** that can facilitate **online interaction and collaboration**, focusing on understanding the role that AI systems play in such interactions. Recently, I am working on **the design and development of LLM-driven interactive systems for UX designers**.
 
 Previously, I have conducted HCI research at [GT SPUD (Security, Privacy, Usability and Design) Lab](https://gtspuds.com/) under the supervision of [Dr. Sauvik Das](https://sauvikdas.com/) during my undergrad. I have also interned at [Berkeley SETI  Research Center](https://seti.berkeley.edu/listen/), building ML-based pipelines in astrophysics under the supervision of Dr. Andrew Siemon and [Dr. Steve Croft](https://astro.berkeley.edu/people/steve-croft/). 
