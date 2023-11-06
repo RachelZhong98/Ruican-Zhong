@@ -29,6 +29,4 @@
   to     = "/npmjs/"
   status = 200
 
-[context.production.environment]
-  HUGO_VERSION = "0.115.4"
 
