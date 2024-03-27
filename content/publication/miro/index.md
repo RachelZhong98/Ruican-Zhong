@@ -32,7 +32,7 @@ featured: true
 
 # links:
 # - name:
-# url_pdf: https://drive.google.com/file/d/11uxeAJChlpJ8eZBCGdGgKWWjFNDhaI8p/view?usp=sharing
+url_pdf: https://arxiv.org/pdf/2403.08111.pdf
 # url_slides: https://www.slideshare.net/PaulLogas/cscw-2020-tensions-between-access-and-control-in-makerspaces
 # url_poster: https://www.slideshare.net/PaulLogas/cscw-2020-tensions-between-access-and-control-in-makerspaces
 
