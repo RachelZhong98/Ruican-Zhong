@@ -37,7 +37,7 @@ featured: true
 
 # links:
 # - name:
-url_pdf: https://drive.google.com/file/d/11uxeAJChlpJ8eZBCGdGgKWWjFNDhaI8p/view?usp=sharing
+url_pdf: https://misinforeview.hks.harvard.edu/article/user-experiences-and-needs-when-responding-to-misinformation-on-social-media/
 # url_slides: https://www.slideshare.net/PaulLogas/cscw-2020-tensions-between-access-and-control-in-makerspaces
 # url_poster: https://www.slideshare.net/PaulLogas/cscw-2020-tensions-between-access-and-control-in-makerspaces
 
